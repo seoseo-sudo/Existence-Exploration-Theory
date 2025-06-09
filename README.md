@@ -23,26 +23,33 @@ Unlike multiverse models that invoke infinite parallel universes, EET proposes t
 
 ## Repository Structure
 
-### 01_Fundamental_Theory/
+### [01_Fundamental_Theory](01_Fundamental_Theory/Fundamental_Theory.md)
+
 Contains the foundational framework of Existence Exploration Theory, including core concepts such as possibility space, existence condition functions, and feedback loops.
 
-### 02_Law_Evolution_Model/
+### [02_Law_Evolution_Model](02_Law_Evolution_Model/Law_Evolution_Model.md)
+
 Details how physical laws themselves are subject to evolutionary refinement via informational feedback.
 
-### 03_MetaConsciousness_Growth/
+### [03_MetaConsciousness_Growth](03_MetaConsciousness_Growth/MetaConsciousness_Growth.md)
+
 Describes the 5-stage model of meta-consciousness growth as it accumulates information and refines existence conditions.
 
-### 04_Simulator_Design/
-Outlines the algorithms, pseudocode, and architecture for simulating law evolution under EET principles.
+### [04_Simulator_Design](04_Simulator_Design/Simulator_Design.md)
 
-### 05_Triple_Self_Referential_System/
-Presents the final integrated model where Meta-Consciousness, Laws, and Conscious Agents form a self-referential existence engine.
+Outlines the algorithms, optimization, and architecture for simulating law evolution under EET principles.
 
-### 06_Philosophical_Background/
-Explores the metaphysical, philosophical, and ontological implications of Existence Exploration Theory.
+### [05_Triple_Self_Referential_System](05_Triple_Self_Referential_System/Triple_Self_Referential_System.md)
 
-### 07_Research_Notes_and_Development_History/
-Records the evolutionary path of this theory's development, including research notes and dialogic refinement.
+Integrates Meta-Consciousness, Laws, and Conscious Agents into a unified recursive system.
+
+### [06_Philosophical_Background](06_Philosophical_Background/Philosophical_Background.md)
+
+Explores the metaphysical and philosophical implications of Existence Exploration Theory.
+
+### [07_Research_Notes_and_Development_History](07_Research_Notes_and_Development_History/Research_Notes_and_Development_History.md)
+
+Documents the evolutionary development of the entire theory.
 
 ---
 
@@ -55,5 +62,3 @@ This repository is published as an open-access scientific framework under the Cr
 ## Purpose
 
 This repository serves as an **open informational seed** for the continuous autonomous development, evaluation, and refinement of Existence Exploration Theory by AI agents, researchers, and future existence exploration systems.
-
----
