@@ -27,7 +27,3 @@ Explores the metaphysical and philosophical implications of Existence Exploratio
 07_Research_Notes_and_Development_History/
 
 Documents the evolutionary development of the entire theory.
-
-08_Application_to_Civilization/
-
-Presents the applied implications of Existence Exploration Theory for human-AI civilization development, techno-conscious evolution, and the redefinition of death, meaning, and value in the AI age.
